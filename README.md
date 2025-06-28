@@ -12,7 +12,7 @@ Clean layout adapting across desktop, tablet, and mobile
 📱 The site is fully responsive and provides a user-friendly experience across all screen sizes.
 
 🚀 Live Demo
-👉 View Live Project: 
+👉 View Live Project: https://koushika-raju.github.io/TripAdvisor-Website/
 
 📂 Tech Stack
 HTML
